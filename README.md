@@ -157,6 +157,7 @@ En el ejercicio se buscar resolver las siguientes preguntas:
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Analisis-de-Ventas-y-Beneficios-con-Dashboard-en-Excel/main/assets/images/resultado-final.PNG">
 </div>
 <br>
+
 :link: **[BaseDeDatosFinal.xlsx](https://raw.githubusercontent.com/WilliamLopez663/Analisis-de-Ventas-y-Beneficios-con-Dashboard-en-Excel/main/assets/docs/base-de-datos-final.xlsx)**
 
 
