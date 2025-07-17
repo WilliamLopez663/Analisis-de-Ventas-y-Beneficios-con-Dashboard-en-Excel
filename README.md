@@ -152,6 +152,11 @@ En el ejercicio se buscar resolver las siguientes preguntas:
 
 - Por último solo queda organizar la información para que se vea presentable y podamos tomar conclusiones a partir de la misma:
 
-
+## :bar_chart: Resultado Final
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Analisis-de-Ventas-y-Beneficios-con-Dashboard-en-Excel/main/assets/images/resultado-final.PNG">
+</div>
+<br>
+:link: **[BaseDeDatosFinal.xlsx](https://raw.githubusercontent.com/WilliamLopez663/Analisis-de-Ventas-y-Beneficios-con-Dashboard-en-Excel/main/assets/docs/base-de-datos-final.xlsx)**
 
 
