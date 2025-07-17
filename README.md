@@ -63,4 +63,95 @@ En el ejercicio se buscar resolver las siguientes preguntas:
 
 ## Beneficio por marca
 
+- Realizo el mismo proceso de insertar tabla dinámica pero en este caso elijo marco en filas y el beneficio en valores:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Analisis-de-Ventas-y-Beneficios-con-Dashboard-en-Excel/main/assets/images/tabla-dinamica-beneficio-marca.PNG">
+</div>
+<br>
+
+- Filtro la tabla para que se organicen los valores e inserto mi gráfico de barras:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Analisis-de-Ventas-y-Beneficios-con-Dashboard-en-Excel/main/assets/images/grafico-barras-beneficio-por-marca.PNG">
+</div>
+<br>
+
+## Beneficio de productos por comercial
+
+- Realizo el mismo proceso de insertar tabla dinámica pero en este caso elijo marco en filas y el beneficio en valores:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Analisis-de-Ventas-y-Beneficios-con-Dashboard-en-Excel/main/assets/images/insertar-tabla-dinamica-beneficio-por-producto-comercial.PNG">
+</div>
+<br>
+
+- Filtro la tabla para que se organicen los valores e inserto mi gráfico de barras:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Analisis-de-Ventas-y-Beneficios-con-Dashboard-en-Excel/main/assets/images/grafico-barras-beneficio-por-comercial-producto.PNG">
+</div>
+<br>
+
+## Beneficio de marca por comercial
+
+- Realizo el mismo proceso de insertar tabla dinámica pero en este caso elijo marco en filas y el beneficio en valores:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Analisis-de-Ventas-y-Beneficios-con-Dashboard-en-Excel/main/assets/images/tabla-dinamica-beneficio-por-comercial-marca.PNG">
+</div>
+<br>
+
+- Filtro la tabla para que se organicen los valores e inserto mi gráfico de barras:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Analisis-de-Ventas-y-Beneficios-con-Dashboard-en-Excel/main/assets/images/grafico-circular-beneficio-por-comercial-marca.PNG">
+</div>
+<br>
+
+## Insertar escala de tiempo y segmentación de datos
+
+- En el menú insertar teniendo seleccionado un gráfico eligo la opción insertar escala de tiempo y selecciono fecha:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Analisis-de-Ventas-y-Beneficios-con-Dashboard-en-Excel/main/assets/images/insertar-escala-tiempo.PNG">
+</div>
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Analisis-de-Ventas-y-Beneficios-con-Dashboard-en-Excel/main/assets/images/selecciono-fecha.PNG">
+</div>
+<br>
+
+- Con esto tendriamos la escala de tiempo:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Analisis-de-Ventas-y-Beneficios-con-Dashboard-en-Excel/main/assets/images/escala-de-tiempo.PNG">
+</div>
+<br>
+
+- Conectando la escala de tiempo con los gráficos:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Analisis-de-Ventas-y-Beneficios-con-Dashboard-en-Excel/main/assets/images/conexiones-de-informe.PNG">
+</div>
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Analisis-de-Ventas-y-Beneficios-con-Dashboard-en-Excel/main/assets/images/seleccionando-tablas-escala-tiempo.PNG">
+</div>
+<br>
+
+- Haciendo el proceso similar pero para la segmentación de datos:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Analisis-de-Ventas-y-Beneficios-con-Dashboard-en-Excel/main/assets/images/insertar-segmentación de datos.PNG">
+</div>
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Analisis-de-Ventas-y-Beneficios-con-Dashboard-en-Excel/main/assets/images/selecciono-comercial.PNG">
+</div>
+<br>
+
+- Con esto tendriamos la segmentación de datos:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Analisis-de-Ventas-y-Beneficios-con-Dashboard-en-Excel/main/assets/images/segmentacion-de-datos.PNG">
+</div>
+<br>
+
+- Conectando la segmentación de datos con los gráficos:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Analisis-de-Ventas-y-Beneficios-con-Dashboard-en-Excel/main/assets/images/conexion-graficos-segmentacion-datos.PNG">
+</div>
+<br>
+
+- Por último solo queda organizar la información para que se vea presentable y podamos tomar conclusiones a partir de la misma:
+
+
+
 
