@@ -12,7 +12,7 @@ En el ejercicio se buscar resolver las siguientes preguntas:
 - Cuál fue la marca más vendida :question:
 <br><br>
 
-## Beneficio por Año
+## 📅Beneficio por Año
 
 - Nombrar nuestra tabla, esto nos facilitará el insertar gráficos:
 <div align="center">
@@ -47,7 +47,7 @@ En el ejercicio se buscar resolver las siguientes preguntas:
 </div>
 <br>
 
-## Beneficio por comercial
+## :briefcase:Beneficio por comercial
 
 - Realizo el mismo proceso de insertar tabla dinámica pero en este caso elijo los comerciales en filas y el beneficio en valores:
 <div align="center">
@@ -61,7 +61,7 @@ En el ejercicio se buscar resolver las siguientes preguntas:
 </div>
 <br>
 
-## Beneficio por marca
+## 🏷️Beneficio por marca
 
 - Realizo el mismo proceso de insertar tabla dinámica pero en este caso elijo marco en filas y el beneficio en valores:
 <div align="center">
@@ -75,7 +75,7 @@ En el ejercicio se buscar resolver las siguientes preguntas:
 </div>
 <br>
 
-## Beneficio de productos por comercial
+## 🧑‍💼Beneficio de productos por comercial
 
 - Realizo el mismo proceso de insertar tabla dinámica pero en este caso elijo marco en filas y el beneficio en valores:
 <div align="center">
@@ -89,7 +89,7 @@ En el ejercicio se buscar resolver las siguientes preguntas:
 </div>
 <br>
 
-## Beneficio de marca por comercial
+## :man:🏷️Beneficio de marca por comercial
 
 - Realizo el mismo proceso de insertar tabla dinámica pero en este caso elijo marco en filas y el beneficio en valores:
 <div align="center">
@@ -103,7 +103,7 @@ En el ejercicio se buscar resolver las siguientes preguntas:
 </div>
 <br>
 
-## Insertar escala de tiempo y segmentación de datos
+## 🕒Insertar escala de tiempo y segmentación de datos
 
 - En el menú insertar teniendo seleccionado un gráfico eligo la opción insertar escala de tiempo y selecciono fecha:
 <div align="center">
